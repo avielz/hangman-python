@@ -1,6 +1,9 @@
 # hangman-python
 end of project course in self.py campus IL
 
+https://courses.campus.gov.il/courses/course-v1:CS+GOV_CS_selfpy101+1_2021/info
+(I strongly recommend the course- free (optional contribution), online, in Hebrew)
+
 hangman game
 
 save hangman.py and words.txt to folder
